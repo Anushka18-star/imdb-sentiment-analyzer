@@ -4,8 +4,6 @@ This project is a Machine Learning and NLP-based web application that analyzes m
 
 The application was built using Python, Streamlit, and Scikit-learn with the IMDb Movie Reviews Dataset from Kaggle. The main goal of this project was to understand how sentiment analysis works in real-world AI applications while also creating a modern and interactive user interface.
 
----
-
 # Features
 
 - Predicts movie review sentiment
@@ -17,8 +15,6 @@ The application was built using Python, Streamlit, and Scikit-learn with the IMD
 - NLP text processing
 - Interactive Streamlit web app
 
----
-
 # Technologies Used
 
 - Python
@@ -29,8 +25,6 @@ The application was built using Python, Streamlit, and Scikit-learn with the IMD
 - TF-IDF Vectorizer
 - Pickle
 
----
-
 # Dataset
 
 Dataset Used:  
@@ -39,20 +33,16 @@ IMDb Dataset of 50K Movie Reviews
 Dataset Source:  
 https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
 
----
-
 # Project Screenshots
 
 ## Home Page
-(Add Screenshot Here)
+<img width="1892" height="838" alt="image" src="https://github.com/user-attachments/assets/094c7444-ef63-4326-ae83-0a88a8140f29" />
 
 ## Positive Sentiment Prediction
-(Add Screenshot Here)
+<img width="1182" height="658" alt="image" src="https://github.com/user-attachments/assets/e298812c-88fc-485b-ab47-835416b42041" />
 
 ## Negative Sentiment Prediction
-(Add Screenshot Here)
-
----
+<img width="1205" height="667" alt="image" src="https://github.com/user-attachments/assets/14604a4f-8116-46c6-b6b2-6f2ec222e949" />
 
 # How to Run the Project
 
@@ -92,9 +82,6 @@ pip install -r requirements.txt
 
 ```bash
 streamlit run app.py
-```
-
----
 
 # Project Workflow
 
@@ -104,8 +91,6 @@ streamlit run app.py
 4. Train Machine Learning model
 5. Predict sentiment from user review
 6. Display confidence score and result
-
----
 
 # Future Improvements
 
@@ -119,8 +104,6 @@ Some features that can be added in the future:
 - Cloud deployment
 - Review history storage
 
----
-
 # What I Learned
 
 Through this project, I learned:
@@ -133,17 +116,10 @@ Through this project, I learned:
 - Model training and prediction
 - GitHub project management
 
----
-
 # Author
 
-Diya
+Anushka Jat
 
 Artificial Intelligence & Machine Learning Enthusiast
 
----
 
-# Project Status
-
-Completed  
-Ready for Deployment
